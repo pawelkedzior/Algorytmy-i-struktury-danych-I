@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="pl" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Plik:Trie example.svg – Wikipedia, wolna encyklopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":6,"wgPageName":"Plik:Trie_example.svg","wgTitle":"Trie example.svg","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgMonthNamesShort":["","sty","lut","mar","kwi","maj","cze","lip","sie","wrz","paź","lis","gru"],"wgRelevantPageName":"Plik:Trie_example.svg","wgRelevantArticleId":0,"wgIsProbablyEditable":true,"wgRestrictionCreate":[],"wgRestrictionUpload":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"pl","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["pl-pl","pl","en-us","en"],"wgULSCurrentAutonym":"polski","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"pl"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.gadget.main-page","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pl&amp;modules=ext.gadget.ReferenceTooltips%2Cedit-buttons%2Cedit-first-section%2Cedit-summaries%2Cedit-summary-warning%2Cenhanced-upload%2Cheading-icons%2Cmain-page%2Cmap-toggler%2Cmaps%2CnuxTBKeys%2Cpope%2CrefToolbar%2Csmall-references%2Cwikibugs%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.action.view.filepage%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector" />
+<link rel="stylesheet" href="https://commons.wikimedia.org/w/index.php?title=MediaWiki:Filepage.css&amp;action=raw&amp;maxage=2678400&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=pl&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<script async="" src="/w/load.php?debug=false&amp;lang=pl&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.10" />
+<link rel="alternate" type="application/x-wiki" title="Edytuj" href="/w/index.php?title=Plik:Trie_example.svg&amp;action=edit" />
+<link rel="edit" title="Edytuj" href="/w/index.php?title=Plik:Trie_example.svg&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (pl)" />
+<link rel="EditURI" type="application/rsd+xml" href="//pl.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Kanał Atom Wikipedii" href="/w/index.php?title=Specjalna:Ostatnie_zmiany&amp;feed=atom" />
+<link rel="canonical" href="https://commons.wikimedia.org/wiki/File:Trie_example.svg" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.10/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-6 ns-subject page-Plik_Trie_example_svg skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="pl">Plik:Trie example.svg</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Z Wikipedii, wolnej encyklopedii</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Skocz do:					<a href="#mw-head">nawigacja</a>, 					<a href="#p-search">szukaj</a>
+				</div>
+				<div id="mw-content-text"><ul id="filetoc"><li><a href="#file">Plik</a></li>
+<li><a href="#filehistory">Historia pliku</a></li>
+<li><a href="#filelinks">Wykorzystanie pliku</a></li>
+<li><a href="#globalusage">Globalne wykorzystanie pliku</a></li></ul><div class="fullImageLink" id="file"><a href="//upload.wikimedia.org/wikipedia/commons/b/be/Trie_example.svg"><img alt="Plik:Trie example.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/400px-Trie_example.svg.png" width="400" height="375" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/600px-Trie_example.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/800px-Trie_example.svg.png 2x" data-file-width="400" data-file-height="375" /></a><div class="mw-filepage-resolutioninfo">Wielkość pliku podglądu PNG dla pliku SVG: <a href="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/400px-Trie_example.svg.png" class="mw-thumbnail-link">400 x 375 pikseli</a> <span class="mw-filepage-other-resolutions">Inne rozdzielczości: <a href="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/256px-Trie_example.svg.png" class="mw-thumbnail-link">256 x 240 pikseli</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/512px-Trie_example.svg.png" class="mw-thumbnail-link">512 x 480 pikseli</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/640px-Trie_example.svg.png" class="mw-thumbnail-link">640 x 600 pikseli</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/819px-Trie_example.svg.png" class="mw-thumbnail-link">819 x 768 pikseli</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/1092px-Trie_example.svg.png" class="mw-thumbnail-link">1092 x 1024 pikseli</a>.</span></div></div>
+<div class="fullMedia"><a href="//upload.wikimedia.org/wikipedia/commons/b/be/Trie_example.svg" class="internal" title="Trie example.svg">Rozmiar pierwotny</a> &#8206;<span class="fileInfo">(Plik SVG, nominalnie 400 × 375 pikseli, rozmiar pliku: 20 KB)</span>
+</div>
+<div class="sharedUploadNotice">
+<div id="commons-icon" class="metadata put-in-header"><a href="//commons.wikimedia.org/wiki/File:Trie_example.svg" title="Ten plik jest umieszczony w Wikimedia Commons"><img alt="Ten plik jest umieszczony w Wikimedia Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" width="20" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+<table id="" class="plainlinks fmbox fmbox-system" style="background: #f9f9f9;">
+<tr>
+<td class="mbox-image">
+  <a href="/wiki/Plik:Commons-logo.svg" class="image" title="Logo Wikimedia Commons"><img alt="Logo Wikimedia Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/25px-Commons-logo.svg.png" width="25" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/38px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/50px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text" style="">Plik <b><a class="external text" href="https://commons.wikimedia.org/wiki/File:Trie_example.svg">Trie example.svg</a></b> znajduje się w <a href="//commons.wikimedia.org/wiki/Strona_g%C5%82%C3%B3wna" class="extiw" title="commons:Strona główna">Wikimedia Commons</a> – repozytorium wolnych zasobów. Dane z <b><a href="//commons.wikimedia.org/wiki/File:Trie_example.svg" class="extiw" title="commons:File:Trie example.svg">jego strony opisu</a></b> znajdują się poniżej.</td>
+</tr>
+</table>
+</div>
+<div id="shared-image-desc"><h2><span class="mw-headline" id="Opis">Opis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//commons.wikimedia.org/w/index.php?title=File:Trie_example.svg&amp;action=edit&amp;section=1" title="Edytuj sekcję: Opis">edytuj</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hproduct commons-file-information-table">
+<table class="fileinfotpl-type-information toccolours vevent mw-content-ltr" style="width: 100%; direction: ltr;" cellpadding="4">
+<tr style="vertical-align: top">
+<td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="pl">Opis<span class="summary fn" style="display:none">Trie example.svg</span></td>
+<td class="description">
+<div class="description mw-content-ltr en" dir="ltr" lang="en" style=""><span class="language en" title=""><b>English:</b></span> Example of a <a href="//en.wikipedia.org/wiki/trie" class="extiw" title="en:trie">trie</a>.</div>
+<div class="description mw-content-ltr pl" dir="ltr" lang="pl" style=""><span class="language pl" title=""><b>Polski:</b></span> Przykładowe <a href="//pl.wikipedia.org/wiki/drzewo_trie" class="extiw" title="pl:drzewo trie">drzewo trie</a></div>
+</td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_date" class="fileinfo-paramfield" lang="pl">Data</td>
+<td lang="pl"><span style="white-space:nowrap"><time class="dtstart" datetime="2006-07-15">15 lipca 2006</time></span> (upload to English Wikipedia)</td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_src" class="fileinfo-paramfield" lang="pl">Źródło</td>
+<td>own work (based on PNG image by <a href="//en.wikipedia.org/wiki/User:Deco" class="extiw" title="en:User:Deco">Deco</a>)</td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="pl">Autor</td>
+<td><a href="//en.wikipedia.org/wiki/User:Booyabazooka" class="extiw" title="en:User:Booyabazooka">Booyabazooka</a> (based on PNG image by <a href="//en.wikipedia.org/wiki/User:Deco" class="extiw" title="en:User:Deco">Deco</a>). Modifications by <a href="//commons.wikimedia.org/wiki/User:Superm401" title="User:Superm401" class="mw-redirect">Superm401</a>.</td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_perm" class="fileinfo-paramfield" lang="pl">Licencja<br />
+<small>(<a href="//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia" title="Commons:Reusing content outside Wikimedia">Ponowne użycie tego pliku</a>)</small></td>
+<td>
+<p>In public domain</p>
+</td>
+</tr>
+</table>
+</div>
+<h2><span class="mw-headline" id="Licencja">Licencja</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//commons.wikimedia.org/w/index.php?title=File:Trie_example.svg&amp;action=edit&amp;section=2" title="Edytuj sekcję: Licencja">edytuj</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="licensetpl" style="display:none">
+<tr>
+<td><span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span></td>
+</tr>
+</table>
+<table style="width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;" class="layouttemplate mw-content-ltr" lang="pl">
+<tr>
+<td><img alt="Public domain" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png" title="Public domain" width="64" height="64" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/96px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></td>
+<td>Ja, właściciel praw autorskich do tej pracy, udostępniam ją jako <b><a href="//en.wikipedia.org/wiki/pl:Domena_publiczna" class="extiw" title="w:pl:Domena publiczna">własność publiczną</a></b>. Dotyczy to całego świata.<br />
+<small>W niektórych krajach może nie być to prawnie możliwe, jeśli tak, to:</small><br />
+<i>Zapewniam każdemu prawo do użycia tej pracy <b>w dowolnym celu</b>, bez żadnych ograniczeń, chyba że te ograniczenia są wymagane przez prawo.</i>
+<p><span class="licensetpl_short" style="display:none;">Public domain</span><span class="licensetpl_long" style="display:none;">Public domain</span><span class="licensetpl_link_req" style="display:none;">false</span><span class="licensetpl_attr_req" style="display:none;">false</span></p>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1238
+Cached time: 20160203120340
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.069 seconds
+Real time usage: 0.096 seconds
+Preprocessor visited node count: 713/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 6966/2097152 bytes
+Template argument size: 2688/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.013/10.000 seconds
+Lua memory usage: 845 KB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   81.947      1 - -total
+ 88.45%   72.486      1 - Template:Information
+ 34.24%   28.058      1 - Template:ISOdate
+ 13.58%   11.131      1 - Template:Years_since
+ 11.19%    9.170      1 - Template:PD-self
+  6.73%    5.515      1 - Template:PD-Layout
+  6.49%    5.318      8 - Template:Dir
+  6.46%    5.297      1 - Template:IfNum
+  6.40%    5.245      1 - Template:En
+  6.33%    5.186      1 - Template:Parse_source
+-->
+
+<!-- Saved in parser cache with key commonswiki:pcache:idhash:1197221-1!*!0!!pl!4!* and timestamp 20160203120340 and revision id 117843653
+ -->
+</div>
+<h2 id="filehistory">Historia pliku</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>Kliknij na datę/czas, aby zobaczyć, jak plik wyglądał w tym czasie.
+</p>
+<table class="wikitable filehistory">
+<tr><th></th><th>Data i czas</th><th>Miniatura</th><th>Wymiary</th><th>Użytkownik</th><th>Opis</th></tr>
+<tr><td>aktualny</td><td class='filehistory-selected' style='white-space: nowrap;'><a href="//upload.wikimedia.org/wikipedia/commons/b/be/Trie_example.svg">00:00, 9 mar 2009</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/b/be/Trie_example.svg"><img alt="Miniatura wersji z 00:00, 9 mar 2009" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/120px-Trie_example.svg.png" width="120" height="113" data-file-width="400" data-file-height="375" /></a></td><td>400 × 375 <span style="white-space: nowrap;">(20 KB)</span></td><td>Mattflaschen</td><td dir="ltr">Make more clear that Tries are in no way binary.  See <a href="//en.wikipedia.org/wiki/Talk:Trie#Binary.3F" class="extiw" title="w:Talk:Trie">w:Talk:Trie#Binary?</a>.</td></tr>
+<tr><td></td><td  style='white-space: nowrap;'><a href="//upload.wikimedia.org/wikipedia/commons/archive/b/be/20090308230051%21Trie_example.svg">01:29, 22 wrz 2006</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/archive/b/be/20090308230051%21Trie_example.svg"><img alt="Miniatura wersji z 01:29, 22 wrz 2006" src="//upload.wikimedia.org/wikipedia/commons/thumb/archive/b/be/20090308230051%21Trie_example.svg/120px-Trie_example.svg.png" width="120" height="113" data-file-width="400" data-file-height="375" /></a></td><td>400 × 375 <span style="white-space: nowrap;">(17 KB)</span></td><td>Nux</td><td dir="ltr">== Summary == {{Information  | Description = {{en|Example of a <a href="//en.wikipedia.org/wiki/trie" class="extiw" title="en:trie">trie</a>.}} {{pl|Przykładowe <a href="/wiki/Drzewo_trie" title="Drzewo trie">drzewo trie</a>}}  | Source = own work (based on PNG image by <a href="//en.wikipedia.org/wiki/User:Deco" class="extiw" title="en:User:Deco">Deco</a>)  | Date = 2006-07-15 (upload to English Wikipedia) </td></tr>
+</table>
+
+</div>
+<h2 id="filelinks">Wykorzystanie pliku</h2>
+<div id='mw-imagepage-section-linkstoimage'>
+<p>Poniższa strona odwołuje się do tego pliku:
+</p><ul class="mw-imagepage-linkstoimage">
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/Drzewo_trie" title="Drzewo trie">Drzewo trie</a></li>
+</ul>
+</div>
+<h2 id="globalusage">Globalne wykorzystanie pliku</h2>
+<div id="mw-imagepage-section-globalusage"><p>Ten plik jest wykorzystywany także w innych projektach wiki:
+</p><ul>
+<li class='mw-gu-onwiki-cs_wikipedia_org'>Wykorzystanie w cs.wikipedia.org
+<ul>	<li><a class="external" href="//cs.wikipedia.org/wiki/Trie">Trie</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-en_wikipedia_org'>Wykorzystanie w en.wikipedia.org
+<ul>	<li><a class="external" href="//en.wikipedia.org/wiki/Trie">Trie</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/User:Xionbox/Algorithms">User:Xionbox/Algorithms</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/User:Milos.sosic/sandbox">User:Milos.sosic/sandbox</a></li>
+	<li><a class="external" href="//en.wikipedia.org/wiki/User:Jimmy_Novik/Python">User:Jimmy Novik/Python</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-es_wikipedia_org'>Wykorzystanie w es.wikipedia.org
+<ul>	<li><a class="external" href="//es.wikipedia.org/wiki/Trie">Trie</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-fa_wikipedia_org'>Wykorzystanie w fa.wikipedia.org
+<ul>	<li><a class="external" href="//fa.wikipedia.org/wiki/%D8%AF%D8%B1%D8%AE%D8%AA_%D9%BE%DB%8C%D8%B4%D9%88%D9%86%D8%AF%DB%8C">درخت پیشوندی</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-fr_wikipedia_org'>Wykorzystanie w fr.wikipedia.org
+<ul>	<li><a class="external" href="//fr.wikipedia.org/wiki/Trie_(informatique)">Trie (informatique)</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ja_wikipedia_org'>Wykorzystanie w ja.wikipedia.org
+<ul>	<li><a class="external" href="//ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%82%A4%E6%9C%A8">トライ木</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ko_wikipedia_org'>Wykorzystanie w ko.wikipedia.org
+<ul>	<li><a class="external" href="//ko.wikipedia.org/wiki/%EC%82%AC%EC%9A%A9%EC%9E%90:Xerossia/%EB%B2%88%EC%97%AD/trie">사용자:Xerossia/번역/trie</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-pt_wikipedia_org'>Wykorzystanie w pt.wikipedia.org
+<ul>	<li><a class="external" href="//pt.wikipedia.org/wiki/Trie">Trie</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ru_wikipedia_org'>Wykorzystanie w ru.wikipedia.org
+<ul>	<li><a class="external" href="//ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D1%84%D0%B8%D0%BA%D1%81%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE">Префиксное дерево</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-sr_wikipedia_org'>Wykorzystanie w sr.wikipedia.org
+<ul>	<li><a class="external" href="//sr.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%B5">Трие</a></li>
+	<li><a class="external" href="//sr.wikipedia.org/wiki/B-trie">B-trie</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-zh_wikipedia_org'>Wykorzystanie w zh.wikipedia.org
+<ul>	<li><a class="external" href="//zh.wikipedia.org/wiki/Trie">Trie</a></li>
+</ul></li>
+</ul>
+</div><noscript><img src="//pl.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Źródło: „<a dir="ltr" href="https://pl.wikipedia.org/wiki/Plik:Trie_example.svg">https://pl.wikipedia.org/wiki/Plik:Trie_example.svg</a>”					</div>
+				<div id='catlinks' class='catlinks catlinks-allhidden' data-mw='interface'></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu nawigacyjne</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Narzędzia osobiste</h3>
+						<ul>
+							<li id="pt-anonuserpage">Nie jesteś zalogowany</li><li id="pt-anontalk"><a href="/wiki/Specjalna:Moja_dyskusja" title="Dyskusja użytkownika dla tego adresu IP [n]" accesskey="n">Dyskusja</a></li><li id="pt-anoncontribs"><a href="/wiki/Specjalna:M%C3%B3j_wk%C5%82ad" title="Lista edycji wykonanych z tego adresu IP [y]" accesskey="y">Edycje</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Specjalna:Zaloguj&amp;returnto=Plik%3ATrie+example.svg&amp;type=signup" title="Zachęcamy do stworzenia konta i zalogowania, ale nie jest to obowiązkowe.">Utwórz konto</a></li><li id="pt-login"><a href="/w/index.php?title=Specjalna:Zaloguj&amp;returnto=Plik%3ATrie+example.svg" title="Zachęcamy do zalogowania się, choć nie jest to obowiązkowe. [o]" accesskey="o">Zaloguj się</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Przestrzenie nazw</h3>
+						<ul>
+															<li  id="ca-nstab-image" class="selected"><span><a href="/wiki/Plik:Trie_example.svg"  title="Zobacz stronę grafiki [c]" accesskey="c">Plik</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Dyskusja_pliku:Trie_example.svg&amp;action=edit&amp;redlink=1"  title="Dyskusja o zawartości tej strony [t]" accesskey="t" rel="discussion">Dyskusja</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Warianty</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Widok</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Plik:Trie_example.svg" >Czytaj</a></span></li>
+															<li id="ca-view-foreign" class="collapsible"><span><a href="https://commons.wikimedia.org/wiki/File:Trie_example.svg" >Zobacz w Wikimedia Commons</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=Plik:Trie_example.svg&amp;veaction=edit"  title="Edytuj tę stronę [v]" accesskey="v">Dodaj lokalny opis</a></span></li>
+															<li id="ca-edit" class="collapsible  collapsible"><span><a href="/w/index.php?title=Plik:Trie_example.svg&amp;action=edit"  title="Edytuj tę stronę [e]" accesskey="e">Utwórz kod źródłowy lokalnego opisu</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Więcej</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Szukaj</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Szukaj" title="Przeszukaj Wikipedię [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Specjalna:Szukaj" name="title" /><input type="submit" name="fulltext" value="Szukaj" title="Szukaj wprowadzonego tekstu w treści stron" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Przejdź" title="Przejdź do strony o dokładnie takim tytule, o ile istnieje" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna"  title="Strona główna"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Nawigacja</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Przejdź na stronę główną [z]" accesskey="z">Strona główna</a></li><li id="n-randompage"><a href="/wiki/Specjalna:Losowa_strona" title="Załaduj losową stronę [x]" accesskey="x">Losuj artykuł</a></li><li id="n-Kategorie"><a href="/wiki/Portal:Kategorie_G%C5%82%C3%B3wne">Kategorie artykułów</a></li><li id="n-Featured-articles"><a href="/wiki/Wikipedia:Wyr%C3%B3%C5%BCniona_zawarto%C5%9B%C4%87_Wikipedii">Najlepsze artykuły</a></li><li id="n-FAQ"><a href="/wiki/Pomoc:FAQ">Częste pytania (FAQ)</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-zmiany' aria-labelledby='p-zmiany-label'>
+			<h3 id='p-zmiany-label'>Dla czytelników</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-czytelnicy"><a href="/wiki/Wikipedia:O_Wikipedii">O Wikipedii</a></li><li id="n-bug_in_article"><a href="/wiki/Wikipedia:Zg%C5%82o%C5%9B_b%C5%82%C4%85d_w_artykule">Zgłoś błąd</a></li><li id="n-bad-image"><a href="/wiki/Wikipedia:Zg%C5%82oszone_grafiki">Zgłoś błąd w pliku</a></li><li id="n-contact"><a href="/wiki/Wikipedia:Kontakt_z_wikipedystami">Kontakt</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_pl.wikipedia.org&amp;uselang=pl" title="Pomóż nam">Wspomóż Wikipedię</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-edytorzy' aria-labelledby='p-edytorzy-label'>
+			<h3 id='p-edytorzy-label'>Dla wikipedystów</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-pierwsze-kroki"><a href="/wiki/Pomoc:Pierwsze_kroki">Pierwsze kroki</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Portal_wikipedyst%C3%B3w" title="O projekcie, co możesz zrobić, gdzie możesz znaleźć informacje">Portal wikipedystów</a></li><li id="n-Noticeboard"><a href="/wiki/Wikipedia:Tablica_og%C5%82osze%C5%84">Ogłoszenia</a></li><li id="n-Guidelines"><a href="/wiki/Wikipedia:Zasady">Zasady</a></li><li id="n-helppage-name"><a href="/wiki/Pomoc:Spis_tre%C5%9Bci">Pomoc</a></li><li id="n-recentchanges"><a href="/wiki/Specjalna:Ostatnie_zmiany" title="Lista ostatnich zmian na Wikipedii. [r]" accesskey="r">Ostatnie zmiany</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Narzędzia</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Specjalna:Linkuj%C4%85ce/Plik:Trie_example.svg" title="Pokaż listę wszystkich stron linkujących do tej strony [j]" accesskey="j">Linkujące</a></li><li id="t-upload"><a href="//pl.wikipedia.org/wiki/Wikipedia:Prześlij_plik" title="Prześlij pliki [u]" accesskey="u">Prześlij plik</a></li><li id="t-specialpages"><a href="/wiki/Specjalna:Strony_specjalne" title="Lista wszystkich specjalnych stron [q]" accesskey="q">Strony specjalne</a></li><li id="t-info"><a href="/w/index.php?title=Plik:Trie_example.svg&amp;action=info" title="Więcej informacji na temat tej strony">Informacje o tej stronie</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>W innych językach</h3>
+
+			<div class="body">
+									<ul>
+						<li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Zasady zachowania poufności</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:O_Wikipedii" title="Wikipedia:O Wikipedii">O Wikipedii</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Korzystasz_z_Wikipedii_tylko_na_w%C5%82asn%C4%85_odpowiedzialno%C5%9B%C4%87" title="Wikipedia:Korzystasz z Wikipedii tylko na własną odpowiedzialność">Korzystasz z Wikipedii tylko na własną odpowiedzialność</a></li>
+											<li id="footer-places-mobileview"><a href="//pl.m.wikipedia.org/w/index.php?title=Plik:Trie_example.svg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Wersja dla urządzeń mobilnych</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Dla deweloperów</a></li>
+											<li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.10/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.10/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.10/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.gadget.maps","ext.gadget.heading-icons","ext.gadget.refToolbar","ext.gadget.edit-buttons","ext.gadget.edit-summaries","ext.gadget.edit-first-section","ext.gadget.edit-summary-warning","ext.gadget.wikibugs","ext.gadget.nuxTBKeys","ext.gadget.enhanced-upload","ext.gadget.small-references","ext.gadget.map-toggler","ext.gadget.ReferenceTooltips","ext.gadget.pope","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":280,"wgHostname":"mw1212"}); /* @nomin */
+} );</script>
+	</body>
+</html>
